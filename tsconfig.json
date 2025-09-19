@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
-    "target": "es6",
-    "module": "esnext",
-    "lib": ["es6"],
+    "target": "ES2020",
+    "module": "NodeNext",
+    "lib": ["es2020", "dom"],
+    "resolveJsonModule": true,
+    "moduleResolution": "NodeNext",
     "outDir": "./dist",
     "strict": true,
     "esModuleInterop": true,
