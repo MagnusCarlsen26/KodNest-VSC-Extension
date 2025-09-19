@@ -3,11 +3,8 @@
 
 import 'dotenv/config';
 
-const moduleId = "7604eebf-7c9d-44ce-814d-c2ab6c79ffc3";
-const someId = "d466e3e4-1f96-4802-b0cc-eaa5b01e928d";
-
-async function getSectionAndQuestionId(
-    moduleId: string, 
+export async function getModuleQuestionsRaw(
+    moduleId: string,
     someId: string
 ): Promise<any> {
     const headers: Record<string, string> = {
@@ -32,23 +29,4 @@ async function getSectionAndQuestionId(
     } catch (_err) {
         return { data: { items: [] } };
     }
-}
-
-export async function extractSectionAndQuestionId(
-    moduleId: string,
-    someId: string
-): Promise<{
-    moduleId: string,
-    questionIds: { questionId: string, sectionId: string }[]
-}> {
-    const data = await getSectionAndQuestionId(moduleId, someId);
-    const items = Array.isArray(data?.data?.items) ? data.data.items : [];
-
-    return {
-        moduleId: moduleId,
-        questionIds: items.map((question: any) => ({
-            questionId : question.id,
-            sectionId : question.section_id
-        }))
-    };
 }

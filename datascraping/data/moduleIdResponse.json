@@ -1,0 +1,478 @@
+{
+    "status_code": "AS200",
+    "message": "success",
+    "data": [
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4f10cave691c",
+                "title": "Kodnest 75 "
+            },
+            "items": [
+                {
+                    "description": "Enhance your problem-solving skills with more complex data structures and algorithms.\n\n",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Path to Proficiency",
+                    "id": "7604eebf-7c9d-44ce-814d-c2ab6c79ffc3",
+                    "progress": 0,
+                    "no_of_questions": 22
+                },
+                {
+                    "description": "Master the core data structures and algorithms that form the building blocks of programming.",
+                    "difficulty": "BEGINNER",
+                    "name": "Foundations of Coding",
+                    "id": "e47835c7-28f7-45fd-906e-8c2929415918",
+                    "progress": 3.0303030303030303,
+                    "no_of_questions": 33
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6909",
+                "title": "Advanced Algorithm Techniques"
+            },
+            "items": [
+                {
+                    "description": "Face more complex problems that will test your logic and problem-solving abilities!",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Advanced Algorithm Challenge",
+                    "id": "4f9f49ba-767e-4dbc-81ed-b9d7b119291d",
+                    "progress": 0,
+                    "no_of_questions": 15
+                },
+                {
+                    "description": "Tackle the toughest advanced problems and prove you're a true algorithm champion!",
+                    "difficulty": "ADVANCED",
+                    "name": "Advanced Algorithm Champion",
+                    "id": "6e3890cc-1846-4b8a-a6be-80d645ef476f",
+                    "progress": 0,
+                    "no_of_questions": 25
+                },
+                {
+                    "description": "Ease into advanced algorithms with beginner-friendly problems and fun challenges!",
+                    "difficulty": "BEGINNER",
+                    "name": "Advanced Algorithm Fun",
+                    "id": "95ef76a7-b645-4a3c-baea-c8c7326d6a80",
+                    "progress": 0,
+                    "no_of_questions": 15
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade698c",
+                "title": "SQL Power Play: Joins and Aggregates"
+            },
+            "items": [
+                {
+                    "description": "This practice explores combining JOINS with GROUP BY and HAVING clauses for more refined data grouping and filtering. By the end, you’ll confidently use aggregate functions to extract meaningful information from databases",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "SQL Connect II - Mastering Basic Joins",
+                    "id": "e29897ac-85ee-4734-8f66-9a18b94db82a",
+                    "progress": 0,
+                    "no_of_questions": 27
+                },
+                {
+                    "description": "By the end of this practice, you’ll have a solid understanding of subqueries and sorting, essential tools for advanced SQL operations.",
+                    "difficulty": "ADVANCED",
+                    "name": "SQL Organizer - Subqueries and Sorting",
+                    "id": "23e87b1e-fa4b-456d-8860-9a40c3f083f7",
+                    "progress": 0,
+                    "no_of_questions": 45
+                },
+                {
+                    "description": "This practice explores combining JOINS with GROUP BY and HAVING clauses for more refined data grouping and filtering. By the end, you’ll confidently use aggregate functions to extract meaningful information from databases.",
+                    "difficulty": "BEGINNER",
+                    "name": "SQL Connect I - Mastering Basic Joins",
+                    "id": "14e79c3b-d87f-4370-9917-d85d1114315e",
+                    "progress": 0,
+                    "no_of_questions": 25
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade698b",
+                "title": "SQL Starter Kit: SELECT and Beyond"
+            },
+            "items": [
+                {
+                    "description": "By the end of this practice, you will have a strong grasp of SQL basics, preparing you for advanced topics like joins and subqueries.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "SQL Essentials II - SELECT and More",
+                    "id": "55d7e5d3-bafc-4c4b-af02-6ff891a4014e",
+                    "progress": 0,
+                    "no_of_questions": 48
+                },
+                {
+                    "description": "By the end of this practice, you will have a strong grasp of SQL basics, preparing you for advanced topics like joins and subqueries.\n",
+                    "difficulty": "BEGINNER",
+                    "name": "SQL Insights I - Basics of Aggregate Functions",
+                    "id": "deda2e12-62f9-49f2-999a-787158085c92",
+                    "progress": 0,
+                    "no_of_questions": 42
+                },
+                {
+                    "description": "By the end of this practice, you will have a strong grasp of SQL basics, preparing you for advanced topics like joins and subqueries.\n",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "SQL Insights II - Basics of Aggregate Functions",
+                    "id": "d21e4abf-8634-40c2-a745-e8d7d288acc3",
+                    "progress": 0,
+                    "no_of_questions": 48
+                },
+                {
+                    "description": "By the end of this practice, you will have a strong grasp of SQL basics, preparing you for advanced topics like joins and subqueries.",
+                    "difficulty": "BEGINNER",
+                    "name": "SQL Essentials I - SELECT and More",
+                    "id": "42c9fdd7-c114-422c-876e-18ebf05d6f3a",
+                    "progress": 0,
+                    "no_of_questions": 45
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "6883242e-edd7-43bc-bfbd-f70ec23bdd12",
+                "title": "Python Coding Journey"
+            },
+            "items": [
+                {
+                    "description": "This course is perfect for anyone starting their Python journey. You'll solve simple, real-life coding problems and build your logic step by step. No prior experience needed — just practice, learn, and grow confident with Python one question at a time!",
+                    "difficulty": "BEGINNER",
+                    "name": "Python Starter Pack",
+                    "id": "b3f94f5c-2d20-459f-8656-9014f24caa42",
+                    "progress": 0,
+                    "no_of_questions": 30
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6923",
+                "title": "Algorithmic Journey"
+            },
+            "items": [
+                {
+                    "description": "Level 2 Core Challenges delves deeper into complex algorithms, refining problem-solving skills with advanced techniques and optimizations.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Algorithmic Journey-Level 2 ",
+                    "id": "4384644e-3d03-48fa-a4d4-056fa8833e90",
+                    "progress": 0,
+                    "no_of_questions": 28
+                },
+                {
+                    "description": "Exploring and mastering problem-solving through efficient algorithms and logic.",
+                    "difficulty": "BEGINNER",
+                    "name": "Algorithmic Journey - Level 1",
+                    "id": "b0f4da19-cf94-4422-a3cc-281c7a832db1",
+                    "progress": 0,
+                    "no_of_questions": 30
+                },
+                {
+                    "description": "Algorithmic Journey: Level 3 takes you to the frontier of algorithmic challenges, focusing on highly complex problems, optimization strategies, and real-world applications",
+                    "difficulty": "ADVANCED",
+                    "name": "Algorithmic Journey - Level  3",
+                    "id": "48770106-72b8-4d23-90a6-9cd7797a433e",
+                    "progress": 0,
+                    "no_of_questions": 23
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6980",
+                "title": "Sorting Algorithms"
+            },
+            "items": [
+                {
+                    "description": "Rise to the top by solving the hardest sorting problems!",
+                    "difficulty": "ADVANCED",
+                    "name": "Sorting Pro",
+                    "id": "007e2a33-5764-4066-b5c5-4ed6a7562dd9",
+                    "progress": 0,
+                    "no_of_questions": 23
+                },
+                {
+                    "description": "Get started with easy sorting problems!",
+                    "difficulty": "BEGINNER",
+                    "name": "Sorting Fun",
+                    "id": "6a3a0458-9fd9-419c-8658-6b943589336e",
+                    "progress": 0,
+                    "no_of_questions": 28
+                },
+                {
+                    "description": "Take on fun sorting challenges to boost your skills!",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Sorting Champions",
+                    "id": "625c23ee-de89-4de9-a99e-ee4c7fc6fc89",
+                    "progress": 0,
+                    "no_of_questions": 29
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6986",
+                "title": "Solve It: Coding Challenges"
+            },
+            "items": [
+                {
+                    "description": "Understand sorting with Collections PriorityQueue for priorities.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Collections - PriorityQueue",
+                    "id": "3ffc8780-136d-42cc-8f98-34bf18f9cadc",
+                    "progress": 0,
+                    "no_of_questions": 15
+                },
+                {
+                    "description": "Learn sorted and unique data handling with Collections TreeSet.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Collections - TreeSet",
+                    "id": "697337f0-2d93-46ce-8b66-bc02ccf253af",
+                    "progress": 0,
+                    "no_of_questions": 30
+                },
+                {
+                    "description": "Master dynamic data handling with Collections LinkedList.",
+                    "difficulty": "BEGINNER",
+                    "name": "Collections - LinkedList",
+                    "id": "046fac45-740f-4535-8e4e-d6b9801939d0",
+                    "progress": 0,
+                    "no_of_questions": 30
+                },
+                {
+                    "description": "Advanced algorithms: Master dynamic programming, graphs, and data structures for tech interviews.",
+                    "difficulty": "ADVANCED",
+                    "name": "Expert Coder",
+                    "id": "1bbb9cb4-5fd5-408e-99f8-a16f657e2d52",
+                    "progress": 0,
+                    "no_of_questions": 10
+                },
+                {
+                    "description": "Boost skills with intermediate algorithms: dynamic programming, graphs, and more!",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Brain Booster",
+                    "id": "7dcc235d-f931-46ed-b7a9-a8a708e61b20",
+                    "progress": 0,
+                    "no_of_questions": 11
+                },
+                {
+                    "description": "Explore efficient queue management with Collections ArrayDeque.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Collections - ArrayDeque",
+                    "id": "1a84d77b-87d0-4f0e-bf76-9d6284b53df0",
+                    "progress": 0,
+                    "no_of_questions": 24
+                },
+                {
+                    "description": "Tackle beginner algorithms like sorting and recursion to boost problem-solving skills!",
+                    "difficulty": "BEGINNER",
+                    "name": "Logic Ladder ",
+                    "id": "9365fb39-f302-4f40-b90e-212586e83845",
+                    "progress": 0,
+                    "no_of_questions": 11
+                },
+                {
+                    "description": "Learn to manage dynamic data with ArrayList.",
+                    "difficulty": "BEGINNER",
+                    "name": "Collections - ArrayList",
+                    "id": "b6c92b00-d6f3-4c82-b72c-c91379f3294b",
+                    "progress": 0,
+                    "no_of_questions": 30
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6982",
+                "title": "Java Essentials: Step-by-Step"
+            },
+            "items": [
+                {
+                    "description": "Welcome to Java Fundamentals! Each challenge sharpens your skills for coding mastery!",
+                    "difficulty": "BEGINNER",
+                    "name": "Java Foundations",
+                    "id": "102a0d5f-97e0-441a-9399-73f3ecc18ac1",
+                    "progress": 0,
+                    "no_of_questions": 49
+                },
+                {
+                    "description": "Operator precedence refers to the priority given to operators while parsing a statement that has more than one operator performing operations in it",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Print Statement and Java Syntax",
+                    "id": "73b3e6a7-bfa7-4d80-96e4-7674de0d06c1",
+                    "progress": 0,
+                    "no_of_questions": 5
+                },
+                {
+                    "description": "Enhance coding skills with Control Flow questions! Master conditionals and loops to tackle complex challenges.",
+                    "difficulty": "BEGINNER",
+                    "name": "Control Flow Mastery",
+                    "id": "e7aaa233-d2e6-43d2-9eb3-e24671a0bc28",
+                    "progress": 0,
+                    "no_of_questions": 60
+                },
+                {
+                    "description": "Unleash your coding potential! Dive into array mastery: index, traverse, manipulate!",
+                    "difficulty": "BEGINNER",
+                    "name": "Array Basics",
+                    "id": "4111ff24-dd9d-4b3d-977e-d899575aee00",
+                    "progress": 0,
+                    "no_of_questions": 10
+                },
+                {
+                    "description": "Debug & Learn: Fixing Code\" hones your skills by solving bugs and boosting confidence!",
+                    "difficulty": "BEGINNER",
+                    "name": "Debug & Learn: Fixing Code",
+                    "id": "af38a80e-ac5f-4318-a62a-f69b3658ef31",
+                    "progress": 0,
+                    "no_of_questions": 10
+                },
+                {
+                    "description": "Strengthen coding with String Fundamentals: manipulation, comparison, and traversal.",
+                    "difficulty": "BEGINNER",
+                    "name": "String Fundamentals",
+                    "id": "2c577249-2e47-46f5-8379-f361757ff7fa",
+                    "progress": 0,
+                    "no_of_questions": 10
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4f10cade691c",
+                "title": "Top 100 Interview Questions "
+            },
+            "items": [
+                {
+                    "description": "Decode patterns with arrays, strings, and sliding window tricks.",
+                    "difficulty": "BEGINNER",
+                    "name": "Array and String Operations",
+                    "id": "84d27f95-f776-4515-b7ca-4891896128b8",
+                    "progress": 0,
+                    "no_of_questions": 35
+                },
+                {
+                    "description": "Solve clever puzzles with bit hacks and math wizardry.",
+                    "difficulty": "ADVANCED",
+                    "name": "Dynamic Programming",
+                    "id": "f2609836-6917-4a4f-82f6-f8f518da2449",
+                    "progress": 0,
+                    "no_of_questions": 14
+                },
+                {
+                    "description": "Solve clever puzzles with bit hacks and math wizardry.",
+                    "difficulty": "ADVANCED",
+                    "name": "Bitwise and Mathematical Problems",
+                    "id": "75369e10-bd65-4016-af79-4646deccb8de",
+                    "progress": 0,
+                    "no_of_questions": 11
+                },
+                {
+                    "description": "Master tries, backtracking, and conquer Kadane's secret sauce.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Specialized Algorithms",
+                    "id": "071c9542-bc84-40db-a488-dd68b1dde87c",
+                    "progress": 0,
+                    "no_of_questions": 15
+                },
+                {
+                    "description": "Unlock efficiency with hashmaps and dynamic interval solutions.",
+                    "difficulty": "BEGINNER",
+                    "name": "Hashing and Interval Problems",
+                    "id": "2c09fb79-ceab-449f-b190-b5bd16cf7d7f",
+                    "progress": 0,
+                    "no_of_questions": 13
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6989",
+                "title": "Build Your Coding Logic"
+            },
+            "items": [
+                {
+                    "description": "Java Pattern Mastery: Craft intricate designs, unleash loop wizardry, elevate coding finesse.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Play with Patterns",
+                    "id": "0417f5dc-dd26-4b70-80e0-bada4d3e6e94",
+                    "progress": 0,
+                    "no_of_questions": 39
+                },
+                {
+                    "description": "Java Math Mastery: Elevate logic, conquer numbers, and forge a robust coding foundation.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Math Magic for Coders",
+                    "id": "554542ab-b740-4d2d-806c-eb6623469e38",
+                    "progress": 0,
+                    "no_of_questions": 23
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6928",
+                "title": "Interview Prep"
+            },
+            "items": [
+                {
+                    "description": "Interview Prep Foundation Builders is a comprehensive program designed to strengthen your core skills, providing a solid foundation in algorithms, data structures, and problem-solving techniques essential for acing technical interviews.",
+                    "difficulty": "BEGINNER",
+                    "name": "Foundation Builders",
+                    "id": "a5a402cc-ef2a-4be0-a407-f30c4636f533",
+                    "progress": 0,
+                    "no_of_questions": 40
+                },
+                {
+                    "description": "Interview Prep Core Challenges focuses on tackling intermediate to advanced-level problems, sharpening your problem-solving abilities, and honing your skills in algorithms, data structures, and system design to excel in technical interviews.",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Core Challenges",
+                    "id": "91cf97db-979a-4aae-86f5-53e2c51a7abb",
+                    "progress": 0,
+                    "no_of_questions": 35
+                },
+                {
+                    "description": "Interview Prep Elite Problems offers advanced challenges to enhance your skills in algorithms, system design, and optimization, preparing you for top-tier technical interviews.",
+                    "difficulty": "ADVANCED",
+                    "name": "Elite Problems",
+                    "id": "9f805910-e351-4cda-902d-f2be41b8d55b",
+                    "progress": 0,
+                    "no_of_questions": 39
+                }
+            ]
+        },
+        {
+            "category": {
+                "id": "7c654b60-77a9-4616-a3d5-4ff0cade6985",
+                "title": "Searching Algorithms"
+            },
+            "items": [
+                {
+                    "description": "Face exciting search challenges to sharpen your skills!",
+                    "difficulty": "INTERMEDIATE",
+                    "name": "Searching Champions",
+                    "id": "55d97d7a-f158-40e8-a9cd-2562d47a5f11",
+                    "progress": 0,
+                    "no_of_questions": 23
+                },
+                {
+                    "description": "Start your journey with simple search problems!",
+                    "difficulty": "BEGINNER",
+                    "name": "Searching Fun",
+                    "id": "429387b5-cb36-4bc4-b229-044142592818",
+                    "progress": 0,
+                    "no_of_questions": 22
+                },
+                {
+                    "description": "Become a champion by tackling the toughest search challenges!",
+                    "difficulty": "ADVANCED",
+                    "name": "Searching Pro",
+                    "id": "dca69d14-8f12-4f34-8ce1-c8754a6db5ab",
+                    "progress": 0,
+                    "no_of_questions": 10
+                }
+            ]
+        }
+    ]
+}
