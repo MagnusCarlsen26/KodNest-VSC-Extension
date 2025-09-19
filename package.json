@@ -1,0 +1,24 @@
+{
+  "name": "kodnest-vsc-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagnusCarlsen26/KodNest-VSC-Extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagnusCarlsen26/KodNest-VSC-Extension/issues"
+  },
+  "homepage": "https://github.com/MagnusCarlsen26/KodNest-VSC-Extension#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2"
+  }
+}
