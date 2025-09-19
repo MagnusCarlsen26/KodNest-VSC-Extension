@@ -5,3 +5,9 @@ while solving problems in Kodnest website i see that UI/UX is very slow, laggy a
 I will also be able to see if my submission is correct or not. If it is correct, I should be able to move on to next question. 
 
 All this should happen without ever visiting Kodnext Application.
+
+## Reverse Engineering Notes
+
+### Hierarchy
+
+modules => sections => questions
