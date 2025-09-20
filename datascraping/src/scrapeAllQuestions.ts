@@ -61,7 +61,8 @@ async function scrapeAllQuestions() {
         moduleId: (module as any)?.id ?? "",
         questionIds: items.map((q: any) => ({
             questionId: q?.id ?? "",
-            sectionId: q?.section_id ?? ""
+            sectionId: q?.section_id ?? "",
+            status: q?.status ?? ""
         }))
     }));
 

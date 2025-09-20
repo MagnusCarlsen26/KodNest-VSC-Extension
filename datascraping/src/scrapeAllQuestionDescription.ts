@@ -11,6 +11,7 @@ const someId = "d466e3e4-1f96-4802-b0cc-eaa5b01e928d";
 type QuestionRef = {
     questionId: string;
     sectionId: string;
+    status?: string;
     description?: string;
 };
 
@@ -40,7 +41,8 @@ async function loadAllQuestionsByModule(): Promise<ModuleQuestions[]> {
                 moduleId,
                 questionIds: items.map((q: any) => ({
                     questionId: q?.id ?? q?.questionId ?? "",
-                    sectionId: q?.section_id ?? q?.sectionId ?? ""
+                    sectionId: q?.section_id ?? q?.sectionId ?? "",
+                    status: q?.status ?? ""
                 }))
             };
         });
@@ -60,7 +62,7 @@ async function loadAllQuestionsByModule(): Promise<ModuleQuestions[]> {
         const items = Array.isArray((raw as any)?.data?.items) ? (raw as any).data.items : [];
         return {
             moduleId,
-            questionIds: items.map((q: any) => ({ questionId: q?.id ?? "", sectionId: q?.section_id ?? "" }))
+            questionIds: items.map((q: any) => ({ questionId: q?.id ?? "", sectionId: q?.section_id ?? "", status: q?.status ?? "" }))
         };
     }));
     return perModule;
