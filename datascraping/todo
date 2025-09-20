@@ -1,3 +1,7 @@
 1. Fix ts errors
 2. Have extensive gaurdrails
 3. data structure in JSON files are inefficient to query, edit and delete.
+4. get incorrect submissions from /submission url to display that info in sidebar
+5. more space on right of arrow button
+6. search functionality is pending
+7. show global progress
