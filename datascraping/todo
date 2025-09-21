@@ -6,3 +6,7 @@
 6. search functionality is pending
 7. show global progress
 8. show slightly different background for testcase.
+9. add a link to redirect to solutions/problem page
+10. restore last session when vscode is closed.
+11. test extension in cursor.
+12. how will i send updates to my extension
